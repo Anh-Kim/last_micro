@@ -1,0 +1,7 @@
+flask
+requests
+pytrends
+matplotlib
+io
+base64
+time
